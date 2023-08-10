@@ -1,0 +1,14 @@
+
+body{
+background-color: #4a55a2;
+background-image: linear-gradient(160deg, #4a55a2 0%, #7895cb 33%, #a0bfe0 66%, #c5dff8 100%);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+color: whitesmoke;
+
+}
+.text-bg-dark1{
+    background-color: #7895cb;
+}
+
